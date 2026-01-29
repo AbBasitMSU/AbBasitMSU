@@ -1,5 +1,16 @@
 # 💫 About Me:
-I’m currently working on Building a Fraud Decisioning Platform end-to-end (LightGBM + FastAPI + feature store + drift monitoring) and scaling my EEG/ERP analytics pipelines for meditation research.<br>FinTech + Payments projects: fraud detection, risk scoring, experiment design, real-time analytics, and RAG/LLM apps (LangChain/LlamaIndex), especially if there’s a real dataset + measurable business impact.<br>Best practices for production ML: feature store patterns, model monitoring/drift playbooks, deployment reliability, and “what would a strong real-time fraud system look like in a real company?”<br>Advanced MLOps (monitoring, CI/CD, data quality), streaming/near-real-time pipelines, and stronger LLM evaluation + retrieval quality techniques for RAG systems.<br>LightGBM fraud modeling, precision@K / capacity-aware triage, FastAPI model serving, Power BI dashboards, Databricks SQL analytics, and EEG/ERP preprocessing with Python (MNE/SciPy)<br>I work on two very different signals: credit-card transactions in FinTech and brain signals (ERP peaks) in neuroscience — and I treat both like time-series problems.
+👨‍💻 **I’m currently working on** <br> 
+Building a Fraud Decisioning Platform end-to-end (LightGBM + FastAPI + feature store + drift monitoring) and scaling my EEG/ERP analytics pipelines for meditation research.<br>
+🤝 **I’m looking to collaborate on** <br>
+FinTech + Payments projects: fraud detection, risk scoring, experiment design, real-time analytics, and RAG/LLM apps (LangChain/LlamaIndex), especially if there’s a real dataset + measurable business impact.<br>
+🧠 **I’m looking for help with** <br>
+Best practices for production ML: feature store patterns, model monitoring/drift playbooks, deployment reliability, and “what would a strong real-time fraud system look like in a real company?”<br>
+🌱 **I’m currently learning** <br>
+Advanced MLOps (monitoring, CI/CD, data quality), streaming/near-real-time pipelines, and stronger LLM evaluation + retrieval quality techniques for RAG systems.<br>
+💬 **Ask me about** <br>
+LightGBM fraud modeling, precision@K / capacity-aware triage, FastAPI model serving, Power BI dashboards, Databricks SQL analytics, and EEG/ERP preprocessing with Python (MNE/SciPy)<br>
+⚡ **Fun fact** <br>
+I work on two very different signals: credit-card transactions in FinTech and brain signals (ERP peaks) in neuroscience — and I treat both like time-series problems.
 
 
 ## 🌐 Socials:
